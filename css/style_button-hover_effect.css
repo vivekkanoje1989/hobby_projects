@@ -147,11 +147,11 @@ body{
     position: relative;
     display: block;
     color: #000;
-    font-size: 14px;
+    font-size: 20px;
     text-decoration: none;
-    margin: 30px 0;
+    margin: 10px;
     border: 1px solid #3498db;
-    padding: 14px 60px;
+    padding: 10px 20px;
     text-transform: uppercase;
     overflow: hidden;
     text-align: center;
