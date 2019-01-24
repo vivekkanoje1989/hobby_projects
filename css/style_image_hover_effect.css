@@ -16,7 +16,7 @@ body{
 .image{
     width: 240px;
     height: 400px;
-    background: rgba(0, 0, 0, 0.2);
+    background: rgba(0, 0, 0, 0.5);
     display: inline-block;
     margin: 10px;
     background-size: cover;
