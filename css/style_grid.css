@@ -1,3 +1,8 @@
+:root{
+    --color-white: #fff;
+    --color-yellow: rgb(251, 255, 1);
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -42,7 +47,7 @@ nav a{
 }
 
 nav a.active{
-    color: white;
+    color: var(--color-yellow, yellow);
 }
 
 
